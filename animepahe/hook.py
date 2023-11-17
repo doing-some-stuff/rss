@@ -7,7 +7,7 @@ from dotenv import load_dotenv as env
 import datetime
 env()
 idexclude = eval(os.getenv("Showswatching"))
-emote=os.getenv('Rune')
+rune=os.getenv('Rune')
 weblink=os.getenv('Webhook')
 sentlogs="./animepahe/contentlist.log"
 errlogs="./animepahe/err.log"
@@ -44,7 +44,7 @@ def webhookgenerate(contentlist):
     if f"{show[2]}\n" in sentshows:
       continue
     try:
-      text=f"# {emote}  |  [{show[2]} - Episode {show[1]}](https://animepahe.com/play/{show[0]}*)"
+      text=f"# {rune}  |  [{show[2]} - Episode {show[1]}](https://animepahe.com/play/{show[0]}*)"
       webhook = DiscordWebhook(url=weblink,content=text)
       webhook.execute()
       entrno=len(sentshows)
