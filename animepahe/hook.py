@@ -7,7 +7,7 @@ from dotenv import load_dotenv as env
 import datetime
 env()
 idexclude = eval(os.getenv("Showswatching"))
-emote=os.getenv('Emote')
+emote=os.getenv('Rune')
 weblink=os.getenv('Webhook')
 sentlogs="./animepahe/contentlist.log"
 errlogs="./animepahe/err.log"
