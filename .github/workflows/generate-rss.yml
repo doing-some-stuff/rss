@@ -29,9 +29,11 @@ jobs:
     - name: Generate rss (AnimePahe)
       run: |
         python ./animepahe/generate.py
-    - name: Hook (Animepahe)
-      run: |
-        python ./animepahe/hook.py
+        
+    #- name: Hook (Animepahe)
+      #run: |
+        #python ./animepahe/hook.py
+        
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         # Optional but recommended
