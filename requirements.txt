@@ -1,3 +1,4 @@
 requests
+discord-webhook
 bs4
 python-dotenv
