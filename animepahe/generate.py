@@ -2,20 +2,28 @@ import requests
 import json
 import re
 import os
+from dotenv import load_dotenv as env
 
+env()
+idexclude = eval(os.getenv("Showswatching"))
 
 def get_latest():
     link = 'https://animepahe.com/api?m=airing&page=1'
 
     response = requests.get(link, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"}).json()
 
-    return [
+    allshowsreleased=[
         [
             '{}/{}'.format(x['anime_session'], x['session']),
             x['episode'],
             x['anime_title']
         ] for x in response['data']
     ]
+    showsreleased=[]
+    for entry in allshowsreleased:
+        if entry[2] in idexclude:
+            showsreleased.append(entry)
+    return showsreleased
 
 
 def generate_rss():
@@ -43,7 +51,7 @@ def generate_rss():
 
 
 try:
-    filename = f'./animepahe/animepahe-rss.xml'
+    filename = f'animepahe-rss.xml'
     if os.path.exists(filename):
         os.remove(filename)
     with open(filename, 'w') as f:
