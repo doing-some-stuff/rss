@@ -26,10 +26,6 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Generate rss (GogoAnime)
-      run: |
-        python ./gogoanime/generate.py
-
     - name: Generate rss (AnimePahe)
       run: |
         python ./animepahe/generate.py
