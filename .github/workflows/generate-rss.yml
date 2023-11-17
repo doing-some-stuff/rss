@@ -3,7 +3,7 @@ name: Generate rss feeds
 on:
   push:
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
   build:
