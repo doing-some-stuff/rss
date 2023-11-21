@@ -6,5 +6,12 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
+<item>
+    <title>Helck - Episode 20</title>
+    <link>https://animepahe.com/play/b38757fb-1244-4c83-ee33-e6dd3fc9aff5/02245c224a09c62314dcd64a2ed947136fa62fbbec93b2786dd26a552e061129</link>
+    <imglink>https://i.animepahe.ru/snapshots/9cc8b03a2a72aaf589cc61e47789128c401a3e0f66fddcc1c50539af3e6cc36f.jpg</imglink>
+    <description>Episode 20 of Helck is out!</description>
+</item>
+
 </channel>
 </rss>
