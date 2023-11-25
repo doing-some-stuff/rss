@@ -9,8 +9,8 @@ env()
 idexclude = eval(os.getenv("Showswatching"))
 rune=os.getenv('Rune')
 weblink=os.getenv('Webhook')
-sentlogs="./animepahe/contentlist.log"
-errlogs="./animepahe/err.log"
+sentlogs="./animepahe/hook/contentlist.log"
+errlogs="./animepahe/hook/err.log"
 if not os.path.exists(sentlogs):
     with open(sentlogs,"w") as ff:
         pass
