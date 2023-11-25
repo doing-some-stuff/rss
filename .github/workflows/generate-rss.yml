@@ -30,10 +30,6 @@ jobs:
       run: |
         python ./animepahe/generate.py
         
-    - name: Hook
-      run: |
-        #python ./animepahe/hook.py
-        
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         # Optional but recommended
@@ -44,7 +40,7 @@ jobs:
         # Defaults to the root of the repository
         repository: .
 
-        file_pattern: './*.xml ./*.log'
+        file_pattern: ./*.xml
 
         # Optional: Skip internal call to `git fetch`
         skip_fetch: true
