@@ -41,14 +41,14 @@ def webhookgenerate(contentlist):
   with open(sentlogs,"+r") as ff:
     sentshows=ff.readlines()
   for show in contentlist:
-    if f"{show[2]}\n" in sentshows:
+    if f"{show[2]} - Episode {show[1]}\n" in sentshows:
       continue
     try:
-      text=f"# {rune}  |  [{show[2]} - Episode {show[1]}](https://animepahe.com/play/{show[0]}*)"
+      text=f"# {rune}  |  [{show[2]} - Episode {show[1]}](https://animepahe.com/play/{show[0]})\n[Main Page](https://animepahe.com/play/{show[0]}*)"
       webhook = DiscordWebhook(url=weblink,content=text)
       webhook.execute()
       entrno=len(sentshows)
-      title=f"{show[2]}\n"
+      title=f"{show[2]} - Episode {show[1]}\n"
       if entrno>10:
         os.remove(sentlogs)
         
