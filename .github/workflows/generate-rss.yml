@@ -26,12 +26,12 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Generate rss (AnimePahe)
+    - name: Generate rss
       run: |
         python ./animepahe/generate.py
         
-    #- name: Hook (Animepahe)
-      #run: |
+    - name: Hook
+      run: |
         #python ./animepahe/hook.py
         
     - uses: stefanzweifel/git-auto-commit-action@v4
