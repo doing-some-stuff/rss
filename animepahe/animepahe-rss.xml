@@ -6,12 +6,5 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
-<item>
-    <title>Hikikomari Kyuuketsuki no Monmon - Episode 8</title>
-    <link>https://animepahe.com/play/d56fe5f1-10de-d292-382a-c4c46608b474/594bed680e08bd93e48bb601d16c9ebeb70249289e8647dbe23c75e2a3af19a6</link>
-    <imglink>https://i.animepahe.ru/snapshots/b873b8312505125d027f46d2452d4f4dfc903475b0bac56480167ef4d9840303.jpg</imglink>
-    <description>Episode 8 of Hikikomari Kyuuketsuki no Monmon is out!</description>
-</item>
-
 </channel>
 </rss>
