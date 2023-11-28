@@ -6,5 +6,12 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
+<item>
+    <title>Helck - Episode 21</title>
+    <link>https://animepahe.com/play/be32b43f-e728-12bb-0e5f-000f6dd5c311/f6a14d601294f2c861ea8e37edc32f0f6edf681f6c70c15bffa83e341339ef45</link>
+    <imglink>https://i.animepahe.ru/snapshots/3ee520eea3a6ebe7dbd860d19cf364bb500e6b9a20b8befeecbb8e4e2e33a75b.jpg</imglink>
+    <description>Episode 21 of Helck is out!</description>
+</item>
+
 </channel>
 </rss>
