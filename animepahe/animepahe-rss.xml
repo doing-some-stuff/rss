@@ -6,5 +6,12 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
+<item>
+    <title>Helck - Episode 22</title>
+    <link>https://animepahe.com/play/3080c0ec-acc5-28eb-a342-4eec1bd2a312/533bbd32a00e09f204b4a5b671de75f0e3fe9bb5f5168c65d41a5a07859f6545</link>
+    <imglink>https://i.animepahe.ru/snapshots/1f60600d3bd4053050a466e17cc240e443fb68b99bad5b4b9248541d7b3ade09.jpg</imglink>
+    <description>Episode 22 of Helck is out!</description>
+</item>
+
 </channel>
 </rss>
