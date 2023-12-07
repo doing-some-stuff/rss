@@ -7,6 +7,13 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Dr. Stone: New World Part 2 - Episode 20</title>
+    <link>https://animepahe.com/play/347d016a-f56e-e345-4ce6-094a66406611/c07f2e464ccc2d2e647011a11a1678f0f7d99c276b78c3194c0df03d1bef6b0c</link>
+    <imglink>https://i.animepahe.ru/snapshots/27157bc8f78ed81021a7bb8dd935ef0ffe75b4200a581f4c88aa91c1f43d64d8.jpg</imglink>
+    <description>Episode 20 of Dr. Stone: New World Part 2 is out!</description>
+</item>
+
+<item>
     <title>Uma Musume: Pretty Derby Season 3 - Episode 10</title>
     <link>https://animepahe.com/play/842f2460-91d2-502b-b739-b232ba9b30a8/6f38cee19204cbfce5b701db204c60b8005356f8e0da1326cf83704ea4c4fe28</link>
     <imglink>https://i.animepahe.ru/snapshots/2736b87b4560c04e5c8d253eb42639e78afcd6b1a639e16185ac491f76f5d9d5.jpg</imglink>
@@ -18,13 +25,6 @@
     <link>https://animepahe.com/play/cad25179-1f8a-5e44-1c71-f7aac34e0eff/f7a66f20a75448931937068c9b88bc0399eba447cb3296cc7ab734fd1c36ebc7</link>
     <imglink>https://i.animepahe.ru/snapshots/b178aa7f11841ca0323a68c4f53d7888a9a268db9ce4b3fa860c781d2ef6525f.jpg</imglink>
     <description>Episode 10 of Kage no Jitsuryokusha ni Naritakute! 2nd Season is out!</description>
-</item>
-
-<item>
-    <title>Helck - Episode 22</title>
-    <link>https://animepahe.com/play/07e446c9-d1ce-29cb-b221-4c9e6db6d3ec/4d62bbdfe0a2a141d6c7bf12a4a4488a56a3bf20a1b07f85d53829e454e00972</link>
-    <imglink>https://i.animepahe.ru/snapshots/1f60600d3bd4053050a466e17cc240e443fb68b99bad5b4b9248541d7b3ade09.jpg</imglink>
-    <description>Episode 22 of Helck is out!</description>
 </item>
 
 </channel>
