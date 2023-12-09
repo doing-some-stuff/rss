@@ -6,12 +6,5 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
-<item>
-    <title>Sousou no Frieren - Episode 14</title>
-    <link>https://animepahe.com/play/832abe78-4deb-06dc-0d40-ee638ba466c0/fb09b77d82e6af9881fd67878919ad962102e8d5a2c383f70f2598ac4212f16a</link>
-    <imglink>https://i.animepahe.ru/snapshots/2a96f91954c005c460ba5e1fffe95e271c842c8d705a251bad217032f3c499a8.jpg</imglink>
-    <description>Episode 14 of Sousou no Frieren is out!</description>
-</item>
-
 </channel>
 </rss>
