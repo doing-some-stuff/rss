@@ -6,12 +6,5 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
-<item>
-    <title>Hikikomari Kyuuketsuki no Monmon - Episode 9</title>
-    <link>https://animepahe.com/play/fb32c733-b4e3-c866-6460-49392fed1175/3930a386a4f76f7202bd2b69d7e4c9b3180a80ab640b93136b0c0194ab2229de</link>
-    <imglink>https://i.animepahe.ru/snapshots/e8941e6ed4bc1cddb902ed684e41b8f0be4ffa9a219855052421554ced9ed86a.jpg</imglink>
-    <description>Episode 9 of Hikikomari Kyuuketsuki no Monmon is out!</description>
-</item>
-
 </channel>
 </rss>
