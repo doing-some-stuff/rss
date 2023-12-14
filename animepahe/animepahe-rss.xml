@@ -6,5 +6,12 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
+<item>
+    <title>Jujutsu Kaisen 2nd Season - Episode 45</title>
+    <link>https://animepahe.com/play/65ca1873-87fe-2641-3976-b809ab76ed1d/9f0ae9f6c661a0deb565388bcdaa9fe8ba811af1c208c8a92a48645c79b81d4f</link>
+    <imglink>https://i.animepahe.ru/snapshots/152ec0a0282cf577f7c3d037eecf5c3e279a13cd224fc919881401e8ec7011ab.jpg</imglink>
+    <description>Episode 45 of Jujutsu Kaisen 2nd Season is out!</description>
+</item>
+
 </channel>
 </rss>
