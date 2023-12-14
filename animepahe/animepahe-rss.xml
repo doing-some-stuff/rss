@@ -6,12 +6,5 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
-<item>
-    <title>Uma Musume: Pretty Derby Season 3 - Episode 11</title>
-    <link>https://animepahe.com/play/b77d8a20-56fe-ba41-4f04-f54bedc479ba/29fbe948764f139922ffafd9435821b76f0e37651374c53751739f4680a4a3c2</link>
-    <imglink>https://i.animepahe.ru/snapshots/7f4a698117f9ee53505fa03c73fa6282f398e670917263b7d40bfa18ad0e8a01.jpg</imglink>
-    <description>Episode 11 of Uma Musume: Pretty Derby Season 3 is out!</description>
-</item>
-
 </channel>
 </rss>
