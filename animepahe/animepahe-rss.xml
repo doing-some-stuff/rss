@@ -6,5 +6,12 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
+<item>
+    <title>Helck - Episode 24</title>
+    <link>https://animepahe.com/play/0c870a1c-6c19-6cff-9e55-b8f08be9f35f/91592f37c6b191b3c7ae795665a083254a5d5db3504eec8242b0f6763457d7c3</link>
+    <imglink>https://i.animepahe.ru/snapshots/2ed4bc65a000ec5a45ba0a1e06e5dc0172ef26eb78244fc52f2be73a29be825e.jpg</imglink>
+    <description>Episode 24 of Helck is out!</description>
+</item>
+
 </channel>
 </rss>
