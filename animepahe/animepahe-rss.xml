@@ -7,6 +7,13 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Under Ninja - Episode 12</title>
+    <link>https://animepahe.com/play/21a2170d-5843-0457-cfad-704f0960cfd8/22719d508a0558f919797646769fbd03063bf4f0df155dcbf4e4913a8f90101e</link>
+    <imglink>https://i.animepahe.ru/snapshots/d8f30c7d848b1125ea3bfdd2432b7c67e7e20d20a557cd62342fbe45e4f72505.jpg</imglink>
+    <description>Episode 12 of Under Ninja is out!</description>
+</item>
+
+<item>
     <title>Jujutsu Kaisen 2nd Season - Episode 46</title>
     <link>https://animepahe.com/play/d89f981b-1d4b-e324-b205-2e11e8b055a6/bcbb6d9e249e1fd66ff866132aacdeb4ad2fbad407fb3bfd91cba5d6e0f18b62</link>
     <imglink>https://i.animepahe.ru/snapshots/d4351870a97a52c06f52f28562b828259fbff3f976f9b85f3986d803abef532a.jpg</imglink>
@@ -18,13 +25,6 @@
     <link>https://animepahe.com/play/7130a3a4-c50f-5f37-6a6c-03ca7f879229/96231008675c019111cedaaaa22a1f11fcd829943dfeb08eecd9e9a74f561a2c</link>
     <imglink>https://i.animepahe.ru/snapshots/a54895991723758ede24fd1ea46b6f3f1860f406f5fffb64477524106e7e0d74.jpg</imglink>
     <description>Episode 22 of Dr. Stone: New World Part 2 is out!</description>
-</item>
-
-<item>
-    <title>Uma Musume: Pretty Derby Season 3 - Episode 12</title>
-    <link>https://animepahe.com/play/a38e39cf-3a20-44cd-977f-b236bf907816/c7fd741f47e5e5335655db84b9aea1c0a13ad7fecf0452d58356bb06f509bee4</link>
-    <imglink>https://i.animepahe.ru/snapshots/812788722fabd6389d07ff091f328dfa6909852240f217acda773a5c143537a5.jpg</imglink>
-    <description>Episode 12 of Uma Musume: Pretty Derby Season 3 is out!</description>
 </item>
 
 </channel>
