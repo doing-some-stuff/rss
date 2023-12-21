@@ -7,6 +7,13 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Jujutsu Kaisen 2nd Season - Episode 46</title>
+    <link>https://animepahe.com/play/d89f981b-1d4b-e324-b205-2e11e8b055a6/bcbb6d9e249e1fd66ff866132aacdeb4ad2fbad407fb3bfd91cba5d6e0f18b62</link>
+    <imglink>https://i.animepahe.ru/snapshots/d4351870a97a52c06f52f28562b828259fbff3f976f9b85f3986d803abef532a.jpg</imglink>
+    <description>Episode 46 of Jujutsu Kaisen 2nd Season is out!</description>
+</item>
+
+<item>
     <title>Dr. Stone: New World Part 2 - Episode 22</title>
     <link>https://animepahe.com/play/7130a3a4-c50f-5f37-6a6c-03ca7f879229/96231008675c019111cedaaaa22a1f11fcd829943dfeb08eecd9e9a74f561a2c</link>
     <imglink>https://i.animepahe.ru/snapshots/a54895991723758ede24fd1ea46b6f3f1860f406f5fffb64477524106e7e0d74.jpg</imglink>
@@ -18,13 +25,6 @@
     <link>https://animepahe.com/play/a38e39cf-3a20-44cd-977f-b236bf907816/c7fd741f47e5e5335655db84b9aea1c0a13ad7fecf0452d58356bb06f509bee4</link>
     <imglink>https://i.animepahe.ru/snapshots/812788722fabd6389d07ff091f328dfa6909852240f217acda773a5c143537a5.jpg</imglink>
     <description>Episode 12 of Uma Musume: Pretty Derby Season 3 is out!</description>
-</item>
-
-<item>
-    <title>Kage no Jitsuryokusha ni Naritakute! 2nd Season - Episode 12</title>
-    <link>https://animepahe.com/play/905dd3d2-e97b-5d2f-8451-6a6875ea26b6/f3d8efdb0ff854eac5db02dafc3a8732ebcb22d4793d58225b3e1d878ba74e6f</link>
-    <imglink>https://i.animepahe.ru/snapshots/1a8316ac7f0235aca3c123b9611beafb9b6b67c865b5c6db4d6b9fc050392bf6.jpg</imglink>
-    <description>Episode 12 of Kage no Jitsuryokusha ni Naritakute! 2nd Season is out!</description>
 </item>
 
 </channel>
