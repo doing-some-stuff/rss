@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Sousou no Frieren - Episode 16</title>
+    <link>https://animepahe.com/play/dc335ba0-021c-3082-b10a-2863f7dd1e0c/a2ac027d289063594ff70e525c89cd0b90a1c6117b13aa85eef0385b1773f2ac</link>
+    <imglink>https://i.animepahe.ru/snapshots/4f1adfce8d2ea6e12094626e125b34765ab3ac619447e722241bf450a5cf46b6.jpg</imglink>
+    <description>Episode 16 of Sousou no Frieren is out!</description>
+</item>
+
+<item>
+    <title>Goblin Slayer II - Episode 12</title>
+    <link>https://animepahe.com/play/7a04339f-b2db-960a-db1c-3141a404750f/373beee8acb299cd33b78986c8227f1ee62253c1af9a5335fc1982760c5ecc7d</link>
+    <imglink>https://i.animepahe.ru/snapshots/a77e8d7a0e719210b07ce60273f5cbdcdc5aae2ec29f4fe5c8b83e92b50fe6ae.jpg</imglink>
+    <description>Episode 12 of Goblin Slayer II is out!</description>
+</item>
+
+<item>
+    <title>Tate no Yuusha no Nariagari Season 3 - Episode 12</title>
+    <link>https://animepahe.com/play/90d34a59-f028-13c4-118a-29c0de5acf9b/0a8b78932385419f1c05c55f4555340ee692e2599166c61cb7726aa435475635</link>
+    <imglink>https://i.animepahe.ru/snapshots/300bfc09be9b525b89996fefdd7dd1370086304d706c33357bbc42998f4d5240.jpg</imglink>
+    <description>Episode 12 of Tate no Yuusha no Nariagari Season 3 is out!</description>
+</item>
+
+<item>
+    <title>Under Ninja - Episode 12</title>
+    <link>https://animepahe.com/play/d2da5c72-50e5-4985-1ea8-8e168802caed/be123d00d3432427af220fe28241dfcff0a028cd62a821fe2175456b82e9d336</link>
+    <imglink>https://i.animepahe.ru/snapshots/d8f30c7d848b1125ea3bfdd2432b7c67e7e20d20a557cd62342fbe45e4f72505.jpg</imglink>
+    <description>Episode 12 of Under Ninja is out!</description>
+</item>
+
+</channel>
+</rss>
