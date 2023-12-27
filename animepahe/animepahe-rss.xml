@@ -6,5 +6,12 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
+<item>
+    <title>Uma Musume: Pretty Derby Season 3 - Episode 13</title>
+    <link>https://animepahe.com/play/9deb9a56-079e-f044-eba7-363dfe382614/ac577785a9f0661b1d1f7c1309df4f3406a539b68a044969a0be5824fc3af7c2</link>
+    <imglink>https://i.animepahe.ru/snapshots/e30b857f69b00bf07b1cb2356ac73a286784d81ba26254cfb28cf7968a40a40f.jpg</imglink>
+    <description>Episode 13 of Uma Musume: Pretty Derby Season 3 is out!</description>
+</item>
+
 </channel>
 </rss>
