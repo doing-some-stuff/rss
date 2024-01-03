@@ -6,12 +6,5 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
-<item>
-    <title>Hikikomari Kyuuketsuki no Monmon - Episode 12</title>
-    <link>https://animepahe.com/play/5e51cfb2-f18c-672b-2790-dec6cc2afbe5/b6b0779caccdb837b8ee614f7d6547a66b6f54fd8604c1e0791f1250700140e7</link>
-    <imglink>https://i.animepahe.ru/snapshots/e7e24a0406fcfd19ebe6974f59f461da49dffa25ceae797440a51cb3964311a6.jpg</imglink>
-    <description>Episode 12 of Hikikomari Kyuuketsuki no Monmon is out!</description>
-</item>
-
 </channel>
 </rss>
