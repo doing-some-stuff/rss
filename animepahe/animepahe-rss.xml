@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Mato Seihei no Slave - Episode 2</title>
+    <link>https://animepahe.com/play/27d2d0b5-fd84-62bb-2f02-772430eae6a9/9075d9c850d291843bc3bb6cf6b1b4a86d0ee5a80bf992fd55ea8bec12566fec</link>
+    <imglink>https://i.animepahe.ru/snapshots/818022780e2819110e1e3dc44fbf6ea8463f840611e19eb050353e118e989c35.jpg</imglink>
+    <description>Episode 2 of Mato Seihei no Slave is out!</description>
+</item>
+
+</channel>
+</rss>
