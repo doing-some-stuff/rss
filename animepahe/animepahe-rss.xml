@@ -6,12 +6,5 @@
 <link>https://github.com/doing-some-stuff/rss/tree/main</link>
 <description>A simple RSS feed for animepahe!</description>
 
-<item>
-    <title>Sousou no Frieren - Episode 18</title>
-    <link>https://animepahe.com/play/5294d74f-709c-72f3-9722-fe091bca2b6b/6773d51d952691ee51c6fca2b236d376de81229cbaf99b5ef004641dcd16e710</link>
-    <imglink>https://i.animepahe.ru/snapshots/d2a600da9ce2015f84e693cd4c6559c5de5f01902d66ad4f5fc74cbd13f828ed.jpg</imglink>
-    <description>Episode 18 of Sousou no Frieren is out!</description>
-</item>
-
 </channel>
 </rss>
