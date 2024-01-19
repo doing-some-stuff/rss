@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Mato Seihei no Slave - Episode 3</title>
+    <link>https://animepahe.com/play/4e16ddc4-5220-9e91-b1b7-567dd2e292c2/c890c7baca80b0238c8decd34b8db7d276cffbf8abcaaa42fa7c62ff440af604</link>
+    <imglink>https://i.animepahe.ru/snapshots/0dd85fafb6710c0c521b076d9a5eb3101f5f91372df853c0383ec008741c3567.jpg</imglink>
+    <description>Episode 3 of Mato Seihei no Slave is out!</description>
+</item>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 3</title>
+    <link>https://animepahe.com/play/16253c83-be65-82f8-2fe2-d343621d38d6/3781e917469a73bafe8bea523fef1c66bcd9f4d03c787e702e4832206222f901</link>
+    <imglink>https://i.animepahe.ru/snapshots/fbb2fc3d7fb86d796232835f32c993e2dbbc78f1ce50d47093a1e91b499a3dea.jpg</imglink>
+    <description>Episode 3 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+</channel>
+</rss>
