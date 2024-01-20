@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Sousou no Frieren - Episode 17</title>
+    <link>https://animepahe.com/play/5937fffc-bc9d-07d0-e62e-60f4a4a75259/7d7a92182490b876d7d8b97939b853ac7974d8a1088ba0b79cd1d97dbe048e3d</link>
+    <imglink>https://i.animepahe.ru/snapshots/09e2adadabf35ddb6d501843d190685d523f6be807d8f1b78e3c70fb302d790f.jpg</imglink>
+    <description>Episode 17 of Sousou no Frieren is out!</description>
+</item>
+
+</channel>
+</rss>
