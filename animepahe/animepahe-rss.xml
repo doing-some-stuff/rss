@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Himesama "Goumon" no Jikan desu - Episode 3</title>
+    <link>https://animepahe.com/play/4aef2570-d70e-5418-8edc-7abff0493cd2/0631e32c8dbc80973bae07709d3b3e12a55220920f22eaf23958bfc96d5cff07</link>
+    <imglink>https://i.animepahe.ru/snapshots/77dc8c39949b970c88ae5b48ab44163671de33148b357e96dee9bcd42bbd6eb1.jpg</imglink>
+    <description>Episode 3 of Himesama "Goumon" no Jikan desu is out!</description>
+</item>
+
+</channel>
+</rss>
