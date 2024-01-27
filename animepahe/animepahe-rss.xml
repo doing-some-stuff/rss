@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Dungeon Meshi - Episode 3</title>
+    <link>https://animepahe.com/play/7634688b-c802-2709-7d68-bb7ed9760dbe/d0c301fcaef4d1f0f4b1415ae5e6d12e1be59c41aca447fcc942d9ffc6de8b6e</link>
+    <imglink>https://i.animepahe.ru/snapshots/f0201eb3d6f70cf3a7eb734ef44f44bc18242d8ce44755fbfa9351c767f38b8d.jpg</imglink>
+    <description>Episode 3 of Dungeon Meshi is out!</description>
+</item>
+
+<item>
+    <title>Sousou no Frieren - Episode 18</title>
+    <link>https://animepahe.com/play/a832e215-a54f-074e-8d75-c925211209d0/86e1a624a63a697f3ca72a9819e34251a0a05bf9d3d2d9a978312fdbe516fb31</link>
+    <imglink>https://i.animepahe.ru/snapshots/d2a600da9ce2015f84e693cd4c6559c5de5f01902d66ad4f5fc74cbd13f828ed.jpg</imglink>
+    <description>Episode 18 of Sousou no Frieren is out!</description>
+</item>
+
+</channel>
+</rss>
