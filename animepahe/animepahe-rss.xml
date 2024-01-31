@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Metallic Rouge - Episode 4</title>
+    <link>https://animepahe.com/play/cdc6a16d-392b-aaec-f689-c49d5b670db6/877e233038e558f5f902752a762cba2e191852f689356ac37fc94ebf10e53ad9</link>
+    <imglink>https://i.animepahe.ru/snapshots/a99e33099f1ccd8a968a6c9a364cd5b4df51b305627db10f88f46ecef2902b2d.jpg</imglink>
+    <description>Episode 4 of Metallic Rouge is out!</description>
+</item>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 5</title>
+    <link>https://animepahe.com/play/a889c904-ba6b-0250-05b1-bf1468852657/3a398b6fa344be0ef7a533227a555c090368878bde0797a9b20bd8fc42cfefcf</link>
+    <imglink>https://i.animepahe.ru/snapshots/430f3ae3b7439d047566ad3363b50f434f0c268518320e1c9b5f8a99fdcad148.jpg</imglink>
+    <description>Episode 5 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+<item>
+    <title>Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen - Episode 4</title>
+    <link>https://animepahe.com/play/b4757d55-9ef7-6abf-a437-907c38b836c1/8651a1d8a21eae607cace17829632a9fdefd15adb5536289a484f74d11f8ac05</link>
+    <imglink>https://i.animepahe.ru/snapshots/edf25ced42d13fe4fe74516e56bbdd5d3584046bdd90d8c78e950e3d7c528557.jpg</imglink>
+    <description>Episode 4 of Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen is out!</description>
+</item>
+
+</channel>
+</rss>
