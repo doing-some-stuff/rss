@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen - Episode 4</title>
+    <link>https://animepahe.com/play/b4757d55-9ef7-6abf-a437-907c38b836c1/8651a1d8a21eae607cace17829632a9fdefd15adb5536289a484f74d11f8ac05</link>
+    <imglink>https://i.animepahe.ru/snapshots/edf25ced42d13fe4fe74516e56bbdd5d3584046bdd90d8c78e950e3d7c528557.jpg</imglink>
+    <description>Episode 4 of Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen is out!</description>
+</item>
+
+<item>
+    <title>Himesama "Goumon" no Jikan desu - Episode 4</title>
+    <link>https://animepahe.com/play/a652eb67-b1fa-7205-b439-b0f5770583c9/8785f23db65440f8e523fe38b128ebe43bc89070b0e04a7d4415dc8180ac47ce</link>
+    <imglink>https://i.animepahe.ru/snapshots/bf714c0e8735ff7e324b506bb7b77529a9c47e75b3acd24107a220be9ea232fd.jpg</imglink>
+    <description>Episode 4 of Himesama "Goumon" no Jikan desu is out!</description>
+</item>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 4</title>
+    <link>https://animepahe.com/play/abc1d17c-3fd4-64ed-081e-7268ca4e29eb/6b2c2cc3f734bc209fb9378c737109390a1638ce316f489942c7ccb38ff1f97b</link>
+    <imglink>https://i.animepahe.ru/snapshots/c92aa6c84676a391311abbb661d154a8dec7bfc9c845fee194bc9f1a0d60fd7d.jpg</imglink>
+    <description>Episode 4 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+<item>
+    <title>Dungeon Meshi - Episode 4</title>
+    <link>https://animepahe.com/play/d51f77f5-dcbd-45ad-475f-8da1e158e8dc/e0a1f4d82954227443258f940171c72a4e8d93e3a2a8b65fd2cc136b30895ba7</link>
+    <imglink>https://i.animepahe.ru/snapshots/7bbd06d14275c3111d3677048e448c99147e79d487c2c29079fe4b9718a581b0.jpg</imglink>
+    <description>Episode 4 of Dungeon Meshi is out!</description>
+</item>
+
+</channel>
+</rss>
