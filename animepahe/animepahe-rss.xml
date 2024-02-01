@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Mato Seihei no Slave - Episode 5</title>
+    <link>https://animepahe.com/play/79cbbd07-61ab-1913-93bc-9bb8d2d8b0c7/805cf5584b56fa67bf6561adb07df483862a0de07c7a325df106629f636d7fad</link>
+    <imglink>https://i.animepahe.ru/snapshots/cddad5e83351852a1b0ed43fc6d56bcd5db8e8c173ddd6259e4b4844007cd5f3.jpg</imglink>
+    <description>Episode 5 of Mato Seihei no Slave is out!</description>
+</item>
+
+<item>
+    <title>Metallic Rouge - Episode 4</title>
+    <link>https://animepahe.com/play/9b14c279-833f-22a6-3721-09017aeaa6e5/a4112aa121be3ea335bb56125f87bd5d3c800ccb0ccd579851c4f39f23cac030</link>
+    <imglink>https://i.animepahe.ru/snapshots/a99e33099f1ccd8a968a6c9a364cd5b4df51b305627db10f88f46ecef2902b2d.jpg</imglink>
+    <description>Episode 4 of Metallic Rouge is out!</description>
+</item>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 5</title>
+    <link>https://animepahe.com/play/5d1993b4-0bfd-6d6c-8432-b3b730deb9b3/aed0d24c5add32637f1a24e2245a5b2e964c88d1e9708b69b7bf104dc1fa496c</link>
+    <imglink>https://i.animepahe.ru/snapshots/430f3ae3b7439d047566ad3363b50f434f0c268518320e1c9b5f8a99fdcad148.jpg</imglink>
+    <description>Episode 5 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+</channel>
+</rss>
