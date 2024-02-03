@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Sousou no Frieren - Episode 21</title>
+    <link>https://animepahe.com/play/97960abb-3de4-0809-2cd6-12bbdd1f8319/2b5b3c1c92cb711f96896707a7cd23b9e4662c259733f806a9637688b221ed45</link>
+    <imglink>https://i.animepahe.ru/snapshots/f69f06e9a08787b80db1b408957a2e10c783b9cb5bf9478e3920c021fb40b14b.jpg</imglink>
+    <description>Episode 21 of Sousou no Frieren is out!</description>
+</item>
+
+<item>
+    <title>Nozomanu Fushi no Boukensha - Episode 5</title>
+    <link>https://animepahe.com/play/672a648f-36a6-4e96-239e-a90a2e0b3dd2/29e7cf7ae887b5c9a79a2d773b8f23e933781d80f6134b99aa5e21e4b9281ae5</link>
+    <imglink>https://i.animepahe.ru/snapshots/2d2d8d6e4a74321b1ca0e18afd1ad5fbbca7229b93c4ca96a73c18285326851f.jpg</imglink>
+    <description>Episode 5 of Nozomanu Fushi no Boukensha is out!</description>
+</item>
+
+<item>
+    <title>Dungeon Meshi - Episode 5</title>
+    <link>https://animepahe.com/play/76c0476e-5053-bb8b-7de4-08a1ce94a311/c8ad9ec2a5e4792a0c879bdfc2892fc92b82de2681f2b12ffe2cec30ce5d2357</link>
+    <imglink>https://i.animepahe.ru/snapshots/d7b538700d8c57d7b81dd2d9d29886b12e7f1e8d8d11c4c77efee0d341e18c70.jpg</imglink>
+    <description>Episode 5 of Dungeon Meshi is out!</description>
+</item>
+
+<item>
+    <title>Majo to Yajuu - Episode 4</title>
+    <link>https://animepahe.com/play/98a9217a-3e4a-42fc-5389-221b112e1952/b86f78c63f4654a23e07695ed0960d212cf7d46e00c127d6318e6fa28781255a</link>
+    <imglink>https://i.animepahe.ru/snapshots/8510fdc23ed8a132a5b4b2a784637ba85a7486a5171d054a079bfb13a1e319e2.jpg</imglink>
+    <description>Episode 4 of Majo to Yajuu is out!</description>
+</item>
+
+</channel>
+</rss>
