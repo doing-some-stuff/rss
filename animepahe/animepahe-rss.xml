@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Kusuriya no Hitorigoto - Episode 17</title>
+    <link>https://animepahe.com/play/1fd7a553-1be6-ceda-07c4-292e5921e3e5/02c910581c2b46daf0e81d5043fe66ee18b19640a9bf9d1813656f66a57354c0</link>
+    <imglink>https://i.animepahe.ru/snapshots/7060afdcd215253f668ed112f56e2d309123f9f80982666a31dc9fd8d4e482c0.jpg</imglink>
+    <description>Episode 17 of Kusuriya no Hitorigoto is out!</description>
+</item>
+
+<item>
+    <title>Solo Leveling - Episode 5</title>
+    <link>https://animepahe.com/play/ed1f6fc4-845d-0430-d5f4-5f72959046dc/dcb8be9f3bb65d7d408f47c4e72983361c43eb6e9b7ec99531976c6f5f7508e4</link>
+    <imglink>https://i.animepahe.ru/snapshots/eeaf1a2f1e6e07c0e5f16a98bfdc40a9846f7aaedc9958d1733b5e1c0c79dfbd.jpg</imglink>
+    <description>Episode 5 of Solo Leveling is out!</description>
+</item>
+
+</channel>
+</rss>
