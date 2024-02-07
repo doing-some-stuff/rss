@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen - Episode 5</title>
+    <link>https://animepahe.com/play/3e4b753a-6ca0-bf8f-e86b-8e0687e67b04/409ba9e5975bcd41b44f36b52fa1a08887de07184589af3662697101bf87710c</link>
+    <imglink>https://i.animepahe.ru/snapshots/2e5edc64c4e0638e5d2dc00aa8adf50fd1475d14b80d8a79ac7a7adbdb447529.jpg</imglink>
+    <description>Episode 5 of Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen is out!</description>
+</item>
+
+<item>
+    <title>Himesama "Goumon" no Jikan desu - Episode 5</title>
+    <link>https://animepahe.com/play/87be8f35-a06b-df5a-2f25-594822d3efea/3fc27b96fd9b3519afefd9d34cde9b8a92b5940cfba9dd7eed9cbadc87e87b75</link>
+    <imglink>https://i.animepahe.ru/snapshots/43d58c6b4324ab121468a6244a7a4be32d41a9f529d703cda4e5dc5b0d2b5274.jpg</imglink>
+    <description>Episode 5 of Himesama "Goumon" no Jikan desu is out!</description>
+</item>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 5</title>
+    <link>https://animepahe.com/play/abe46d89-6f40-4e41-4ee3-ac34b085bc2d/1351b8bba1724859d1fd11957f9a32e7895375123a1ff94ebe9fc3c933c55bc6</link>
+    <imglink>https://i.animepahe.ru/snapshots/d6f7180d189fb21e7a4ad164e45b4feae63cf15b2f0d20b8d023d1abd1e3cbb5.jpg</imglink>
+    <description>Episode 5 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
