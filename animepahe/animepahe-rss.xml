@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Nozomanu Fushi no Boukensha - Episode 6</title>
+    <link>https://animepahe.com/play/de4a3c63-8394-deb4-b42f-361c41cb9b5e/6633e742d7a86b3b29b8c9da9018e6ff012148660b5095feeab395229c36d408</link>
+    <imglink>https://i.animepahe.ru/snapshots/91f87fed75d58964fab0dcacf73fe4f6ea0677d6b7765153195c19fa6d19e5ac.jpg</imglink>
+    <description>Episode 6 of Nozomanu Fushi no Boukensha is out!</description>
+</item>
+
+<item>
+    <title>Majo to Yajuu - Episode 5</title>
+    <link>https://animepahe.com/play/49c26bd4-79cb-8f45-9dda-d5399439776d/ce5a5f87dd05c7524a0901bf2fc68019ee188adb3481c5d3df408f1be4dae997</link>
+    <imglink>https://i.animepahe.ru/snapshots/45f06b8a7ecbea2e358fb4feb06c11d83747ff07a705bf43dc6a10d62318f10e.jpg</imglink>
+    <description>Episode 5 of Majo to Yajuu is out!</description>
+</item>
+
+<item>
+    <title>Urusei Yatsura (2022) 2nd Season - Episode 28</title>
+    <link>https://animepahe.com/play/915f691c-9256-e76f-cdff-cd7789fc83da/ccb0db41a341e1bb6b71a1a15e9a9ca2a966ff7f94ce23dd5eba017aa7444bc7</link>
+    <imglink>https://i.animepahe.ru/snapshots/98eb98fc975e2778be3cced6c7ac8fb4d6c2ba03b9d1a3c4c0ddb6ab1457f318.jpg</imglink>
+    <description>Episode 28 of Urusei Yatsura (2022) 2nd Season is out!</description>
+</item>
+
+<item>
+    <title>Mato Seihei no Slave - Episode 6</title>
+    <link>https://animepahe.com/play/4ee11cb9-ee80-d7d2-32bb-e30ac77b6eec/03f9d3b7e45ac35a476949a82d5eac8039ffbcb22aea5fbe0fe05c96815a753e</link>
+    <imglink>https://i.animepahe.ru/snapshots/5447116871af10b2d07968552226cda1a40a74b8dcbe9a2786c086e04d155947.jpg</imglink>
+    <description>Episode 6 of Mato Seihei no Slave is out!</description>
+</item>
+
+<item>
+    <title>Metallic Rouge - Episode 5</title>
+    <link>https://animepahe.com/play/48a1c4f2-029f-6d7c-5e3e-5fdcbb183b7d/6b5bb059b90a26ca6fcbffbf0dcc798da9bd227e896799cf5b7f52e12ce63c44</link>
+    <imglink>https://i.animepahe.ru/snapshots/671702e8e24767fbfdba85d627d849b352a130ec3b40506aff8dfa3b67ccc14d.jpg</imglink>
+    <description>Episode 5 of Metallic Rouge is out!</description>
+</item>
+
+</channel>
+</rss>
