@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Mato Seihei no Slave - Episode 7</title>
+    <link>https://animepahe.com/play/882b2c22-de72-0d75-f5ec-058d2f061364/d7ac85e3d65fb64023645a2806d76f2c10dbc6680740bd67095457957b0b6e76</link>
+    <imglink>https://i.animepahe.ru/snapshots/658d89332570b9b2c7b65343c658f003cac7489ee55e504aab269a32032420f6.jpg</imglink>
+    <description>Episode 7 of Mato Seihei no Slave is out!</description>
+</item>
+
+<item>
+    <title>Metallic Rouge - Episode 6</title>
+    <link>https://animepahe.com/play/a841c951-2b7f-7710-fdce-23e84406e592/490fa46788719790ea56b99f0c20455d41708eb34e2d0dfd48cd4c16f23ada20</link>
+    <imglink>https://i.animepahe.ru/snapshots/66469bd85929843c08b169202042c94a1211df889c18c91760f3d39763803b55.jpg</imglink>
+    <description>Episode 6 of Metallic Rouge is out!</description>
+</item>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 7</title>
+    <link>https://animepahe.com/play/71f30238-d4f8-1b27-b2dd-95ca81f65e20/499c4f41b5e4cad28ac51f36c92ac98b76e5c77739d2e3ed8ee134d2f99f468c</link>
+    <imglink>https://i.animepahe.ru/snapshots/b2defd867bd8d7a953f81a176c03c99483f7f34fcdcc874eb83158ec9b6d279f.jpg</imglink>
+    <description>Episode 7 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+<item>
+    <title>Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen - Episode 6</title>
+    <link>https://animepahe.com/play/4bb4f625-1657-b8d9-2bd5-f8991658d373/036f18b6d16ff2ff09396c9715ae69691c7deeedaa6cf0cec5869fb50ebfe788</link>
+    <imglink>https://i.animepahe.ru/snapshots/71ed6f435006348263f3526941eecf6db937e8ee4e28caf34f1c1029d65da46d.jpg</imglink>
+    <description>Episode 6 of Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen is out!</description>
+</item>
+
+</channel>
+</rss>
