@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Sousou no Frieren - Episode 23</title>
+    <link>https://animepahe.com/play/ef4fb01a-9594-19f7-88c4-2f68b7ea590b/b2c7552e977e7714b99f011c86be265ded1589da6cea042eb993dbb4b86b82ac</link>
+    <imglink>https://i.animepahe.ru/snapshots/b6d11d00e208dd75824fbaf3948e2a437f241ef9481e369a5faed2ea674628cf.jpg</imglink>
+    <description>Episode 23 of Sousou no Frieren is out!</description>
+</item>
+
+<item>
+    <title>Nozomanu Fushi no Boukensha - Episode 7</title>
+    <link>https://animepahe.com/play/cccde129-62fa-b219-4cbc-5624129e0160/722deeac04bfecd8e270a89cb9d82bef1eab1d1af67a77f98c8862e3d372ec22</link>
+    <imglink>https://i.animepahe.ru/snapshots/569efa65c852bad7ceb85beb608741ab18cc2f24e49c8640cee660f900dbb14b.jpg</imglink>
+    <description>Episode 7 of Nozomanu Fushi no Boukensha is out!</description>
+</item>
+
+</channel>
+</rss>
