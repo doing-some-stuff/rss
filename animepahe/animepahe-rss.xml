@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Sousou no Frieren - Episode 24</title>
+    <link>https://animepahe.com/play/c4c5a943-befa-5366-ab23-b760685976b2/5da0db45df920ceec7f22e6d05bdb2eb5534c80c0c4071b35e8db0fcb6b1b261</link>
+    <imglink>https://i.animepahe.ru/snapshots/37dc7607e06ff4cae34cd1016b6b3958c2d123b74c2b1f6c0e50bbb94ce87a26.jpg</imglink>
+    <description>Episode 24 of Sousou no Frieren is out!</description>
+</item>
+
+<item>
+    <title>Nozomanu Fushi no Boukensha - Episode 8</title>
+    <link>https://animepahe.com/play/fd2dcc4c-5bf5-a1d2-e496-abb4b4efd013/5bbc6f05a3777709321d01af6aac6ca495855ceb577ff734b7b786d90482c9ae</link>
+    <imglink>https://i.animepahe.ru/snapshots/5fd66873fe483e5d8fde60ffd662d80a96cebeabcd25ca3123317efb296375a0.jpg</imglink>
+    <description>Episode 8 of Nozomanu Fushi no Boukensha is out!</description>
+</item>
+
+<item>
+    <title>Urusei Yatsura (2022) 2nd Season - Episode 30</title>
+    <link>https://animepahe.com/play/7211ab28-331b-c649-ba8b-669b4aed9b3c/ed93089c223ae3af69fd63ba71ab6699410171694364b7589ee0c27a30c7345c</link>
+    <imglink>https://i.animepahe.ru/snapshots/dbb9a8b81149db29c4fd2f52a2ffac7024c0894b3b4b45f51a92e64125524bfb.jpg</imglink>
+    <description>Episode 30 of Urusei Yatsura (2022) 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
