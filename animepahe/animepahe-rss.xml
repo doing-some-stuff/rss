@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Metallic Rouge - Episode 8</title>
+    <link>https://animepahe.com/play/45c0df11-7e7c-8087-ad65-04e9c393ddc1/c869e8a38e954393b4c1039e3f016151b2c23673386d3564522177332b78bd2b</link>
+    <imglink>https://i.animepahe.ru/snapshots/13dc4f202df37f6e3a2a13464a189b447d6847522e6b10ee5633170b7010024f.jpg</imglink>
+    <description>Episode 8 of Metallic Rouge is out!</description>
+</item>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 9</title>
+    <link>https://animepahe.com/play/22de3bf8-0d2c-9d41-7ac4-b40300a604e4/ba59ccbd08dcdd3d55eaf69dba82b02e354a650414108fe967cc8f1593ad33a7</link>
+    <imglink>https://i.animepahe.ru/snapshots/6a1acec12d23222daf2789f5279826426ca1802236c9f1cf2620f11715eafe68.jpg</imglink>
+    <description>Episode 9 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+</channel>
+</rss>
