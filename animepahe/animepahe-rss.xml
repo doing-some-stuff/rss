@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Nozomanu Fushi no Boukensha - Episode 9</title>
+    <link>https://animepahe.com/play/4a0d1ddc-39a4-6709-42c2-e051367bca3c/1ae79c3d1fb3b8630da4e6d72ada6e3ec4517d28b59dc2e56e7211f2d0fd0987</link>
+    <imglink>https://i.animepahe.ru/snapshots/edb66861e7fdcf649f014f95b963621f66bac472042028be8d6e1825cac431dd.jpg</imglink>
+    <description>Episode 9 of Nozomanu Fushi no Boukensha is out!</description>
+</item>
+
+<item>
+    <title>Majo to Yajuu - Episode 7</title>
+    <link>https://animepahe.com/play/78aef2b3-08e8-1bc3-d766-b0013259c950/fb057e006e63369879a2d1aa18f11802bc2a721bc652d36f778930ba3cc6931b</link>
+    <imglink>https://i.animepahe.ru/snapshots/85057c30b900a1c9e6e73c3a2e8362f18c751e6dab0e4eacf26e131683562d8d.jpg</imglink>
+    <description>Episode 7 of Majo to Yajuu is out!</description>
+</item>
+
+<item>
+    <title>Urusei Yatsura (2022) 2nd Season - Episode 31</title>
+    <link>https://animepahe.com/play/804ed678-b26e-5768-7950-16face196a24/6dccd091ff19ba26cb4cf71a03a151ce702782a8db9148bf0c26dfa299b41ffe</link>
+    <imglink>https://i.animepahe.ru/snapshots/a5e56ff91d2ef2b477fac94a9b3d1bc1eca5d4a2582be63df9bedfe46c50a155.jpg</imglink>
+    <description>Episode 31 of Urusei Yatsura (2022) 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
