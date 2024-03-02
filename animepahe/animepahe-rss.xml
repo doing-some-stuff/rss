@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Sousou no Frieren - Episode 25</title>
+    <link>https://animepahe.com/play/41436a4c-296d-454e-62ff-81b94e5b61ae/a8627c14d62ac55b469b2f6c11244dba6eec62ad005d185677a2d8ffc9b643d6</link>
+    <imglink>https://i.animepahe.ru/snapshots/487b801d288576bc4216896e7bd63d30fe7afdb9c06dda38ac8e7e1d67678db6.jpg</imglink>
+    <description>Episode 25 of Sousou no Frieren is out!</description>
+</item>
+
+</channel>
+</rss>
