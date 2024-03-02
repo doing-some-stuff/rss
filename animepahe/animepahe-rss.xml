@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Kusuriya no Hitorigoto - Episode 21</title>
+    <link>https://animepahe.com/play/f97b4849-3c12-61ce-98d6-1e1b9fa80b28/cdffd81115930290b955e88f47a05db78ee7c6edf1dc1e82703e191e796aff5d</link>
+    <imglink>https://i.animepahe.ru/snapshots/34aca7b2b491396ae97a01670106e0eabf28f79ac6acc30c4cebf6556914b116.jpg</imglink>
+    <description>Episode 21 of Kusuriya no Hitorigoto is out!</description>
+</item>
+
+<item>
+    <title>Solo Leveling - Episode 8</title>
+    <link>https://animepahe.com/play/083b84f3-f1fd-e052-198b-7177a5e05b61/adecff47b75e0d3eb548ad451fc5b43aae167ee9c66187f74ee72ef85575f8ee</link>
+    <imglink>https://i.animepahe.ru/snapshots/3e4cb4be9d1d2b586019b6947449bee05bd713c0d02f304d964e172e9730fc50.jpg</imglink>
+    <description>Episode 8 of Solo Leveling is out!</description>
+</item>
+
+</channel>
+</rss>
