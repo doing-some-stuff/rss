@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Himesama "Goumon" no Jikan desu - Episode 9</title>
+    <link>https://animepahe.com/play/310866a6-6934-07a6-86ea-281cb7b3c94f/328072647459204882e2450aa0afa0709384cab13ca06e1ce60b20e37592689e</link>
+    <imglink>https://i.animepahe.ru/snapshots/0edda42b62e017d62b9c9d7f819d340db17e8c16b8357d11797d6da1562f4099.jpg</imglink>
+    <description>Episode 9 of Himesama "Goumon" no Jikan desu is out!</description>
+</item>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 9</title>
+    <link>https://animepahe.com/play/cf59fd32-a75e-33c3-5d72-aba583db0aca/7846b36c52d455c78208d8017b4213021bed7f334076d317a1464bc2ec8583c2</link>
+    <imglink>https://i.animepahe.ru/snapshots/c50367270fe9e97eb82964eaebe59a451411d0b2caa17e9fd18d6b42c505aee1.jpg</imglink>
+    <description>Episode 9 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
