@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Nozomanu Fushi no Boukensha - Episode 10</title>
+    <link>https://animepahe.com/play/f2a32b41-2a8f-e011-c648-2dc55bb27fd8/ce837d7f9b14d3f214d8fa7e29538c690f9b653e70d4a14a07f27f1ff157ac5c</link>
+    <imglink>https://i.animepahe.ru/snapshots/4710fc093b3cd4a99dfa312cdbfe57f7837ee57cd4554682a916393121b22987.jpg</imglink>
+    <description>Episode 10 of Nozomanu Fushi no Boukensha is out!</description>
+</item>
+
+<item>
+    <title>Majo to Yajuu - Episode 8</title>
+    <link>https://animepahe.com/play/df34d2e9-783a-90f1-b7d4-eb930bda694c/782151c026f0fc45d78d74f2e9760529dbd16a91bfec5d0fd141c13c138973e5</link>
+    <imglink>https://i.animepahe.ru/snapshots/7dcbf983adbc725121d0072d9fcbcbfe2b887967336158fc6ad97f8a8845b9ec.jpg</imglink>
+    <description>Episode 8 of Majo to Yajuu is out!</description>
+</item>
+
+<item>
+    <title>Dungeon Meshi - Episode 10</title>
+    <link>https://animepahe.com/play/b9808992-c938-7884-ccd0-7ae41b4bfe79/d248d236995df6afad33624cbd2eef3dbe68784693a5dafa59ac2a59f6966491</link>
+    <imglink>https://i.animepahe.ru/snapshots/c5461733d2c21ef82ffe9f7a93dab50db66529cd312597eb76fe7740680ca25c.jpg</imglink>
+    <description>Episode 10 of Dungeon Meshi is out!</description>
+</item>
+
+</channel>
+</rss>
