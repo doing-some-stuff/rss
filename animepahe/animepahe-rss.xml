@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen - Episode 10</title>
+    <link>https://animepahe.com/play/a20a729d-ac72-8268-d587-1d4224640ada/fb43092181e67219762d50f6aa78ec7c044eaa4bae42169261887f5b233d3821</link>
+    <imglink>https://i.animepahe.ru/snapshots/47210cf5df9e09c7e73bfaac66be649e9f28672e41ddbd272e8648c765003477.jpg</imglink>
+    <description>Episode 10 of Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen is out!</description>
+</item>
+
+</channel>
+</rss>
