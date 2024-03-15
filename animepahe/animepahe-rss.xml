@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Sousou no Frieren - Episode 27</title>
+    <link>https://animepahe.com/play/7d5e23d6-4987-0db4-7f74-d15b25fefde0/b5420f186d43b4745fd503c43a98b33ea8fe543e78f0afdd5e2d3dd962b5a1a7</link>
+    <imglink>https://i.animepahe.ru/snapshots/ea7925dc400175a2d7957462ad615f4d4d72f3713f9e79a0d9a0475d40afb574.jpg</imglink>
+    <description>Episode 27 of Sousou no Frieren is out!</description>
+</item>
+
+<item>
+    <title>Nozomanu Fushi no Boukensha - Episode 11</title>
+    <link>https://animepahe.com/play/5665d6c8-0ec1-abff-ce6f-12779d2e0349/060f353482eb6c11e9fbb66cba9fb3e959ed6c90f0e65687999d9ab95756837e</link>
+    <imglink>https://i.animepahe.ru/snapshots/fdb71e7d45018c357c06b45bbd629603318160409fc86ae9f5afe117f1227f23.jpg</imglink>
+    <description>Episode 11 of Nozomanu Fushi no Boukensha is out!</description>
+</item>
+
+<item>
+    <title>Dungeon Meshi - Episode 11</title>
+    <link>https://animepahe.com/play/9fdcd37b-cb8f-6bbf-4305-2e496e73452e/6c336326667817998040281b3edc0e925c5c2ca4d92839c7ae69762a092c11d1</link>
+    <imglink>https://i.animepahe.ru/snapshots/92a399a175471c323e4536c9fbfb9d6c3c4e097a7e2f330ed9e2d4bf955c2e9c.jpg</imglink>
+    <description>Episode 11 of Dungeon Meshi is out!</description>
+</item>
+
+</channel>
+</rss>
