@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Kusuriya no Hitorigoto - Episode 23</title>
+    <link>https://animepahe.com/play/b6effcef-02e6-0aae-0744-3640eaa4f8ae/c7945df761b635183391453a072c18c7f7072a74a7c82ca569a770e3b8964a79</link>
+    <imglink>https://i.animepahe.ru/snapshots/0c8367b66558e406bf10ab1d1c777ce7c6fdf1ef2a48096543213b3ec733bab2.jpg</imglink>
+    <description>Episode 23 of Kusuriya no Hitorigoto is out!</description>
+</item>
+
+<item>
+    <title>Solo Leveling - Episode 10</title>
+    <link>https://animepahe.com/play/db010b63-d1d5-9686-bc2e-2c1a1aca4b29/778d62b748b355322b7ebed7f0bcbdc0f83881cf211fe946dec82bd83e662c95</link>
+    <imglink>https://i.animepahe.ru/snapshots/a1af18f624b1c833408ea6563d8dfc80b90c60e9200bd593b0b8eeee1834c5c2.jpg</imglink>
+    <description>Episode 10 of Solo Leveling is out!</description>
+</item>
+
+</channel>
+</rss>
