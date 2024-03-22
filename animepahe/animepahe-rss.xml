@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Majo to Yajuu - Episode 10</title>
+    <link>https://animepahe.com/play/db73d26e-2255-a2f0-03d7-08b20757cad4/82e2807b80d3c3a4c1dc8743ca1e3adf8c8f9e2f820cc462360c4325183dfe47</link>
+    <imglink>https://i.animepahe.ru/snapshots/8c3bb2af907ae097b25fc51a059a2df1c208df82139e63374ece52187ab3716c.jpg</imglink>
+    <description>Episode 10 of Majo to Yajuu is out!</description>
+</item>
+
+<item>
+    <title>Urusei Yatsura (2022) 2nd Season - Episode 34</title>
+    <link>https://animepahe.com/play/c8f0a275-1cbb-8c97-cb7e-fe81d4832a72/6a42294402da49711ee53d42c0649814f4633d044855ea8dd982abed987312b6</link>
+    <imglink>https://i.animepahe.ru/snapshots/c05a9537bae1ab380f1f8fdd9e5055742959d0edb3550fcaf83f9bcab8fbd2a1.jpg</imglink>
+    <description>Episode 34 of Urusei Yatsura (2022) 2nd Season is out!</description>
+</item>
+
+<item>
+    <title>Dungeon Meshi - Episode 12</title>
+    <link>https://animepahe.com/play/08e21819-d864-6a5e-6d0a-89db6e42c5ef/1b3617577b31387ca3fae265015fce8823f11f0a824ea37b3e634b493a8a7381</link>
+    <imglink>https://i.animepahe.ru/snapshots/202ecc92a533648e0086bfe17de6a395db8f070a680e69e1962a84e580d39fe6.jpg</imglink>
+    <description>Episode 12 of Dungeon Meshi is out!</description>
+</item>
+
+<item>
+    <title>Mato Seihei no Slave - Episode 12</title>
+    <link>https://animepahe.com/play/bae3dd80-cf70-96f3-69f8-77a42857d972/2b0618d470b2dca7ae086b31f3bbad10bf88a8e566c7d17d568320e4c8d34433</link>
+    <imglink>https://i.animepahe.ru/snapshots/af59eaa2ad2a9f8d23c35e9140e438c9140cde85301eb570cfca3042eb2212d3.jpg</imglink>
+    <description>Episode 12 of Mato Seihei no Slave is out!</description>
+</item>
+
+<item>
+    <title>Metallic Rouge - Episode 11</title>
+    <link>https://animepahe.com/play/a77cd915-5833-9b72-b896-791d6c16c662/c141d0657e8cf1c9cf990a1700b662b7db284924c1aaef41e9ae8b45d7b758cc</link>
+    <imglink>https://i.animepahe.ru/snapshots/0cae078d2f1b5f5c909785e95d80462fb3cb4a64c9883980f89c2d826fbd4590.jpg</imglink>
+    <description>Episode 11 of Metallic Rouge is out!</description>
+</item>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 12</title>
+    <link>https://animepahe.com/play/5afbad56-baa9-a99f-b5c2-cae325a3c8b3/d34699185cc23d4bfba821ca17c3e5439428464d6d89a5353992a5648b22d68c</link>
+    <imglink>https://i.animepahe.ru/snapshots/ca5acd0c23cd09046412522c9e02ff58def1d61eec2305f7be13e14e7b3a6f94.jpg</imglink>
+    <description>Episode 12 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+</channel>
+</rss>
