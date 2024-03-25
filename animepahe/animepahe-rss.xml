@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Himesama "Goumon" no Jikan desu - Episode 12</title>
+    <link>https://animepahe.com/play/65fb919c-11c2-225e-08bd-537674f66237/6b536ccb7bf33f5f9d15f1feba1d1994c78e4bb641de91b3b7ef1e3c58b8e591</link>
+    <imglink>https://i.animepahe.ru/snapshots/6b8bf612f33e223187c53cf5b859603e10a9f8cf022f9383130a5b4cd3f5ba0c.jpg</imglink>
+    <description>Episode 12 of Himesama "Goumon" no Jikan desu is out!</description>
+</item>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 12</title>
+    <link>https://animepahe.com/play/5de04f06-33bc-fa2d-e86d-59aa67b2efc2/1422bd25863e05b80a273a9e491544d235dfe79f4b50b4ef86d39fd6d19a6776</link>
+    <imglink>https://i.animepahe.ru/snapshots/74ab0c6316924fb9d68e11617bc72e6c4555bde56e135f92155e75658f54cb75.jpg</imglink>
+    <description>Episode 12 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
