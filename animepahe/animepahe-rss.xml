@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Metallic Rouge - Episode 12</title>
+    <link>https://animepahe.com/play/161b1b26-04a1-872b-594a-d065957a591d/ccbae06dc3136c853e2fe6c2aa3152377cd53478060af514f83567ded86178fa</link>
+    <imglink>https://i.animepahe.ru/snapshots/d71172e6bba73a05fe0e66d59d2cca2168d4880c1235aabfab017f20416abdda.jpg</imglink>
+    <description>Episode 12 of Metallic Rouge is out!</description>
+</item>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 13</title>
+    <link>https://animepahe.com/play/4870bfa2-5aa7-0724-e65a-c61442ef3693/895c157c0a58d1d1ddb0da72c456b35905ceeb2ad312708f610a88ec4dfe4981</link>
+    <imglink>https://i.animepahe.ru/snapshots/60ba2b428b4760a1e87ba5a44141d88d4d7e1109d7bd2a3518d5cb2081613ef3.jpg</imglink>
+    <description>Episode 13 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+<item>
+    <title>Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen - Episode 12</title>
+    <link>https://animepahe.com/play/15d55f12-08fb-0f09-d12c-27c4594da4bd/4d9e1b470a6abdd0044448cd2e0a12b77283786b78478b66a8050efc0763f64c</link>
+    <imglink>https://i.animepahe.ru/snapshots/f64ebccbac71adb326762d3307b3286cba9b0195536e97b8653fc0d5c54cec1d.jpg</imglink>
+    <description>Episode 12 of Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen is out!</description>
+</item>
+
+</channel>
+</rss>
