@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Solo Leveling - Episode 12</title>
+    <link>https://animepahe.com/play/d3aa406e-8560-5ab8-3805-7186475bce82/1c1397130f670f61a669a3421be4b5b72f5e01709e9d93c725742ae72c72d70c</link>
+    <imglink>https://i.animepahe.ru/snapshots/d1983c9ea79ddb00e0af8b94d173dc8645baff6daff0635b6bac19f0f0beb0e3.jpg</imglink>
+    <description>Episode 12 of Solo Leveling is out!</description>
+</item>
+
+</channel>
+</rss>
