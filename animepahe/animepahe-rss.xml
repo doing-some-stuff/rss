@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Dungeon Meshi - Episode 13</title>
+    <link>https://animepahe.com/play/bb367b37-f87e-8bfe-b0a5-cbfe1998caee/3433caee64dfb71fa59aad24e7cb4d668b4504e96573d58d1fff2171e03ac8fd</link>
+    <imglink>https://i.animepahe.ru/snapshots/4b1d760cd94865cdbcaa2add633b9474943cae50bccc28415ee53e05c886a41d.jpg</imglink>
+    <description>Episode 13 of Dungeon Meshi is out!</description>
+</item>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 13</title>
+    <link>https://animepahe.com/play/b7b3fcf3-8eb6-37fe-5807-d923add452d7/0cca016b73321b3d65a9badca005964564dcf4b491f098cb514ea0e3057a5f04</link>
+    <imglink>https://i.animepahe.ru/snapshots/6135925a4b61620faeaf04d905696874ebb8da64e8f0506895e0b1679046591e.jpg</imglink>
+    <description>Episode 13 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
