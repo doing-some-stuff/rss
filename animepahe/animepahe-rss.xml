@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Metallic Rouge - Episode 13</title>
+    <link>https://animepahe.com/play/dd47b743-3fd4-b7f3-3d3a-596c25edb9de/1d16775ac905b2ec5cb32f3da9f125bf9f28446aeee9798b07f6fb6e043c164c</link>
+    <imglink>https://i.animepahe.ru/snapshots/6caaa6231504450651a5c5aa7d4d083f6c25deb82c3b692d47e8b878e16af4b9.jpg</imglink>
+    <description>Episode 13 of Metallic Rouge is out!</description>
+</item>
+
+<item>
+    <title>Dungeon Meshi - Episode 13</title>
+    <link>https://animepahe.com/play/dff759c8-c71e-1ad0-a6f4-039e01af3b7d/d22103fe8220c07b21904003bf0ec349ec10ca51983b13668cf1c27e614aec07</link>
+    <imglink>https://i.animepahe.ru/snapshots/4b1d760cd94865cdbcaa2add633b9474943cae50bccc28415ee53e05c886a41d.jpg</imglink>
+    <description>Episode 13 of Dungeon Meshi is out!</description>
+</item>
+
+</channel>
+</rss>
