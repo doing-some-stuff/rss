@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Majo to Yajuu - Episode 12</title>
+    <link>https://animepahe.com/play/e0eab423-da25-6e41-7b6e-9b86e0ee3617/7d67985cf6ddfa2f479fd2a081a4870eee81a8fa4bc8a4c831775b4747856e76</link>
+    <imglink>https://i.animepahe.ru/snapshots/c8a70eb618df0a87259268e855e27b7dedd1f7d3ebf3935c4b8935e55b8f4f7b.jpg</imglink>
+    <description>Episode 12 of Majo to Yajuu is out!</description>
+</item>
+
+</channel>
+</rss>
