@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 15</title>
+    <link>https://animepahe.com/play/ad50d12a-38ae-9ba1-ab61-c1ef2f27e2e1/b5383b1200e10df473cd079e2a167dcb959d8d9f09862a3361d3f2b4affd20be</link>
+    <imglink>https://i.animepahe.ru/snapshots/b77bc66bc51b0bf6958ff2225d2219a3533d96cba53f071cb0bc7a4c46c9dd8d.jpg</imglink>
+    <description>Episode 15 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
