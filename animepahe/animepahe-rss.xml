@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Dungeon Meshi - Episode 16</title>
+    <link>https://animepahe.com/play/13942d45-d633-897a-499b-b52eb2f49d31/dd45d5481716e4cf25752b7cc8a8f9dce6f8320cd6659310ef7b8c0e78fe74e8</link>
+    <imglink>https://i.animepahe.ru/snapshots/708ecd80f74a1be170e1c521cac9fc26b0fd439a5cb268ae6c236f9c72bb746d.jpg</imglink>
+    <description>Episode 16 of Dungeon Meshi is out!</description>
+</item>
+
+</channel>
+</rss>
