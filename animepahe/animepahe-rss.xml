@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 16</title>
+    <link>https://animepahe.com/play/1c7a959c-7449-2531-b0ed-2b7fffbdaff2/efe284c8043604ac8c8c67be0bd790fe963ea2ad780d29f694e4f02b9fafd6d2</link>
+    <imglink>https://i.animepahe.ru/snapshots/4a89bb3fc6c85d54999f3c1e2b1def89e6c0a8c2584e01d0fca2dc02b395234d.jpg</imglink>
+    <description>Episode 16 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
