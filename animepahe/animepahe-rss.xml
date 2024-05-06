@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 18</title>
+    <link>https://animepahe.com/play/faeeaa7c-2878-2d66-c5c3-70f2416312b2/3870b35607689dfe39bd6363a02a20e238793c3678743dddcd1a02093e1cce56</link>
+    <imglink>https://i.animepahe.ru/snapshots/a348e9bd2b82a02618f0e9cd4ec79194ff7603e221cf773c575825b1eb08a8b7.jpg</imglink>
+    <description>Episode 18 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
