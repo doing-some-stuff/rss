@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Dungeon Meshi - Episode 19</title>
+    <link>https://animepahe.com/play/d1d198c1-82e8-1b03-b49e-2643567fbbd7/215e00a1b53ff9f875e6c8544bf8ab49a53e302edfaddd42cdc1c9c3b7b2e440</link>
+    <imglink>https://i.animepahe.ru/snapshots/a231f6d06a41b8db7f11116d9c4bdd9d7b89990f9edc431a618f82f00623fd77.jpg</imglink>
+    <description>Episode 19 of Dungeon Meshi is out!</description>
+</item>
+
+<item>
+    <title>Urusei Yatsura (2022) 2nd Season - Episode 40</title>
+    <link>https://animepahe.com/play/5ae88da4-f5f4-5461-b53b-23fb7f5496a4/281ee26e86fceeb8a3a9e5e3f7183a382caf0b5212afd3ebc1c93c2b9555054e</link>
+    <imglink>https://i.animepahe.ru/snapshots/5acf965eb8cad64108e6e90595a61913d2656c22056bb0b708f86676a7c99dca.jpg</imglink>
+    <description>Episode 40 of Urusei Yatsura (2022) 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
