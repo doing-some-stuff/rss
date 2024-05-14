@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 19</title>
+    <link>https://animepahe.com/play/03225fe8-319c-4063-03df-785ddf7fd4a2/21f9edcd3e395c23ffb90795518e2b68443d1681e74a0648f5b9a0a94e5b8b5c</link>
+    <imglink>https://i.animepahe.ru/snapshots/21e8a0b52e6210b9615be3147a0c9ed1e663164852a0375498a37ce1592e0438.jpg</imglink>
+    <description>Episode 19 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
