@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Dungeon Meshi - Episode 20</title>
+    <link>https://animepahe.com/play/9153bf21-2c5c-3dbb-c95a-97838ea0c49b/c463f86e234ab63a1ef841ec224a0c2510bfe077e84df0c5df98ed38b2c3575b</link>
+    <imglink>https://i.animepahe.ru/snapshots/e03bb11bc6f1c58535a3c773e942d129419a498b3153e4ad6de23dbc80b415fb.jpg</imglink>
+    <description>Episode 20 of Dungeon Meshi is out!</description>
+</item>
+
+</channel>
+</rss>
