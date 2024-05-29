@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 21</title>
+    <link>https://animepahe.com/play/6527b178-7e63-6b60-4283-786f518ceaf5/79204848f8a32a96513be9aec75b5cf09b6e4dab3002904c842412b56dbc496f</link>
+    <imglink>https://i.animepahe.ru/snapshots/61188b4bdd0b6fdbe00e6da2fbb5e29eb2323ef08e9c46ac21b499e564ffb952.jpg</imglink>
+    <description>Episode 21 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
