@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Dungeon Meshi - Episode 23</title>
+    <link>https://animepahe.com/play/979680f6-0a9f-3d4a-212d-6e1d0e772fc7/bbd007afde68e405532565bb61e0f30da5282f60289b3660667d88887a3c5925</link>
+    <imglink>https://i.animepahe.ru/snapshots/8e431e515d4ba01826419140e13a7307c78f42af48c9c8f03ab622c9c9ec8e5a.jpg</imglink>
+    <description>Episode 23 of Dungeon Meshi is out!</description>
+</item>
+
+<item>
+    <title>Urusei Yatsura (2022) 2nd Season - Episode 44</title>
+    <link>https://animepahe.com/play/effedc9e-b192-42ca-7468-d7150bc00e71/7eff9ada6096f78ca22555f7eada5ca81258fdca2843f902d8f1d401743d9dc6</link>
+    <imglink>https://i.animepahe.ru/snapshots/a27c6eca43da0ee6badd0d5789e45dac6cf65c5113ddccd795b590c29b76e330.jpg</imglink>
+    <description>Episode 44 of Urusei Yatsura (2022) 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
