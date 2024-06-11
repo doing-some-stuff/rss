@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 23</title>
+    <link>https://animepahe.com/play/f0e491fd-e13b-81d4-84bb-aec861f81a1e/c60d903a20f362c39282ed98753edf02d5f95753dcde7c62b0b8073d83bc8b13</link>
+    <imglink>https://i.animepahe.ru/snapshots/2276bd871bb39d2cecb4461f35ec544163e170c65b02dbec8b780b2071431f56.jpg</imglink>
+    <description>Episode 23 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
