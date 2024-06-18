@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 24</title>
+    <link>https://animepahe.com/play/dcd8fc8b-66e8-353d-d0ad-bebbdeaaac49/e7dc143fa92e917dda660fda562893d19e715725928f05f9c19be43769513036</link>
+    <imglink>https://i.animepahe.ru/snapshots/3e32d5399b0fc203ebf047e2a819e00926db802dcd8668b1837ca86c1ad2260b.jpg</imglink>
+    <description>Episode 24 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
