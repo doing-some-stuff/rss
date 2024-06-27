@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Tsuki ga Michibiku Isekai Douchuu 2nd Season - Episode 25</title>
+    <link>https://animepahe.com/play/eff6d37f-62d6-9ca0-b763-3e2b2b9a65b3/42d37ef2c8690250f39d71380f0b40b9ae88578b4da13158f1bcdd27194fca1f</link>
+    <imglink>https://i.animepahe.ru/snapshots/35449b95bab517ea37a5aa30a7314c710048da5ef58313526b4bb7cc1ad2b1d5.jpg</imglink>
+    <description>Episode 25 of Tsuki ga Michibiku Isekai Douchuu 2nd Season is out!</description>
+</item>
+
+</channel>
+</rss>
