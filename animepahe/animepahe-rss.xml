@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Mato Seihei no Slave - Episode 12</title>
+    <link>https://animepahe.com/play/f56f1b9b-422d-ac03-5452-aebf30f28455/f3dabd15217fdbfdc9293f9e99e95ae8d28b6faecbb000f1083b1e5e883c0189</link>
+    <imglink>https://i.animepahe.ru/snapshots/af59eaa2ad2a9f8d23c35e9140e438c9140cde85301eb570cfca3042eb2212d3.jpg</imglink>
+    <description>Episode 12 of Mato Seihei no Slave is out!</description>
+</item>
+
+</channel>
+</rss>
