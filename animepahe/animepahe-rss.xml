@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>AnimePahe - RSS Feed</title>
+<link>https://github.com/doing-some-stuff/rss/tree/main</link>
+<description>A simple RSS feed for animepahe!</description>
+
+<item>
+    <title>Mahou Shoujo ni Akogarete - Episode 13</title>
+    <link>https://animepahe.com/play/9242b24e-c924-3b37-204d-737e0a0e76e3/becbf7b5f51890e1325eb352f55d8a3221596f39c7880fcf6996cf7c2e77d99f</link>
+    <imglink>https://i.animepahe.ru/snapshots/60ba2b428b4760a1e87ba5a44141d88d4d7e1109d7bd2a3518d5cb2081613ef3.jpg</imglink>
+    <description>Episode 13 of Mahou Shoujo ni Akogarete is out!</description>
+</item>
+
+</channel>
+</rss>
